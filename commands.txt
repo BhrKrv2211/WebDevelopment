@@ -1,5 +1,5 @@
 touch .gitignore
-git confing --global user.name yourname - to initalize your name 
+git config --global user.name yourname - to initalize your name 
 git config --global user.email your-email@example.com - to intialize your email
 git init - to initialize git repository
 git add. - every file excluding the files from the gitignore are added to the staging area
